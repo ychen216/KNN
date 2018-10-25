@@ -11,4 +11,4 @@ tips: We can use partition algorithm to get  top k rows with time complexity O(#
 5. Get the most frequent class of these rows  
 6. Return the predicted class  
 ## C++ implementation
-[C++ code] ()
+[C++ code](https://github.com/ychen216/KNN/blob/master/KNN/main.cpp)
